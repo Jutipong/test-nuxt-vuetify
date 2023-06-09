@@ -5,7 +5,6 @@ export default defineNuxtConfig({
     "@vueuse/nuxt",
     "@pinia/nuxt",
     "@pinia-plugin-persistedstate/nuxt",
-    "@nuxtjs/tailwindcss",
     "@vue-macros/nuxt",
     "@invictus.codes/nuxt-vuetify"
   ]
